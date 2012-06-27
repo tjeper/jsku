@@ -1,0 +1,4 @@
+jsku
+====
+
+hanya script jsku
